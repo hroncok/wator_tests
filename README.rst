@@ -1,6 +1,12 @@
 Tests for `MI-PYT <https://github.com/cvut/MI-PYT>`__ WaTor homework
 ====================================================================
 
+Usage
+-----
+
+ 1. Copy the tests files to your project.
+ 2. In your virtual environment, install pytest: ``python -m pip install pytest``.
+ 3. Run ``python -m pytest test/``.
 
 
 License
