@@ -22,7 +22,7 @@ results are correct, not if they are truly random. Some examples:
 * If a creature can move down or left, the tests will check whether
   the final location is valid, but the tests will not check whether the creature
   picks it's destination randomly.
-* If you are suppose to choose a random age between 1 and 10, the tests will only
+* If you are supposed to choose a random age between 1 and 10, the tests will only
   check whether all the values are within the limits (i.e. using 4 as the
   hardcoded value will pass).
 * As an exception, ``test_fish_move_over_border`` relies on randomness a bit,
